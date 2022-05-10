@@ -15,7 +15,7 @@ As you have landed here, please make sure you familiarise yourself with:
 - CONTRIBUTING & CODE_OF_CONDUCT files
 
 **With the motto to keep things simple, we have a base folder structure by each Scrum ceremony in each a file containing:**
-- **Antipatters** : Things to watch out for that may spoil the broth for your team
+- **Antipatterns** : Things to watch out for that may spoil the broth for your team
 - **Questions** : Powerful yet simple to help reflection, act as ignator, open posibilities, etc ultimately to serve the team. Good to have in your backpocket.
 - **Indicators** : How do we measure what works? Keeping Systems Thinking at hand so that signle metrics don't damage the goodness of the whole. Think of them as leading indicators of a healthy team/product/organisation
 
